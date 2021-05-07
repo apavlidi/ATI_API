@@ -33,7 +33,7 @@
     "jszip": "^3.1.5",
     "ldap-filters": "^2.2.2",
     "ldapjs": "^1.0.2",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "log4js": "^1.1.1",
     "log4js-node-mongodb": "^2.2.1",
     "mongoose": "^5.0.0",
